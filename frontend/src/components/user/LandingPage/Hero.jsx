@@ -28,8 +28,8 @@ export default function Hero() {
               ullamcorper
             </p>
           </div> */}
-          <div>
-            <button className="text-[#FFFFFF] mt-4 bg-[#FF9E0C] h-10 w-36 rounded-xl">View all cars</button>
+          <div className="z-30">
+            <button className="text-[#FFFFFF] mt-4 bg-[#FF9E0C] h-10 w-36 rounded-xl cursor-pointer">View all cars</button>
           </div>
         </div>
       </div>
